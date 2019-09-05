@@ -16,7 +16,11 @@ CloudShare智能储云产品功能列表
 
 
 
-CloudShare+CloudDesktop是一个融合版本,产品安装包请从Ftp服务器获取,获取产品安装包之后，按照 [产品部署和安装手册]( Zh-CN/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装,安装过程中有任何问题，请提交PR联系我们！
+CloudShare+CloudDesktop是一个融合版本,产品安装包请从Ftp服务器获取,获取产品安装包之后.
+
+按照 [产品部署和安装手册]( Zh-CN/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装.
+
+安装过程中有任何问题，请提交PR联系我们！
 
 CloudDesktop产品截图：
 
