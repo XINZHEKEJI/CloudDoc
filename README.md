@@ -8,4 +8,5 @@
 
 
 [CloudDesktop操作手册](Zh-CN/产品操作手册/CloudDesktop%20Guide%5Bv3.1.1%5D-power%20by%20XINZHEKEJI.pdf)
+
 [CloudShare操作手册](Zh-CN/产品操作手册/CloudShare%20Guide%5Bv2.5.0%5D-power%20by%20XINZHEKEJI.pdf)
