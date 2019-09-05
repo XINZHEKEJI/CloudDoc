@@ -91,7 +91,7 @@ CloudShare+CloudDesktop融合版本涵盖如下组件模块：
 
 接下来:
 
-  1.CloudSharev2.6Alpha版本已经发布，可以通过点击此处获取新版本进行体验。
+  1.CloudSharev2.6Alpha版本已经发布，可以通过[CloudShre智能储云](CloudShare/releases)获取新版本进行体验。
   
   2.CloudDesktopv3.1.2版本正在内部测试中,即将发布.
 
