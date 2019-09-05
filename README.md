@@ -77,9 +77,9 @@ CloudShare+CloudDesktop融合版本涵盖如下组件模块：
 
 ### mysql里面的数据库[3个数据库]
   
-      1.Ds_RegServices                                              -----1张表存储所有的配置IP Port  UserId UserPwd  以及其他
-      2.dsbox                                                       -----导入脚本就行(39表)
-      3.dsdesktop                                                   -----导入脚本就行(22表   18个视图)
+      1.Ds_RegServices                                      -----1张表存储所有的配置IP Port  UserId UserPwd  以及其他
+      2.dsbox                                               -----导入脚本就行(39表)
+      3.dsdesktop                                           -----导入脚本就行(22表   18个视图)
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -111,7 +111,9 @@ Tel : 010 6170 5677   Fax : 010 6170 3884
 
 
 北京信者科技有限公司是一家致力于智能云终端与融合数据应用的产品服务公司
+
 <br>
 <a href="http://www.daasbank.com"><img src="Zh-CN/产品截图素材/logo.png" width="391" height="100" /></a>
+</br>
 
 
