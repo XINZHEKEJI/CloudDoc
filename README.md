@@ -7,7 +7,7 @@
 ### 文档库包含智能储云v2.5.0 +云桌面v3.1.1Web端的安装说明和产品介绍。
 
 
-CloudShare+CloudDesktop是一个融合版本,产品安装包请从Ftp服务器获取,获取产品安装包之后.
+CloudShare+CloudDesktop是一个融合版本,[产品安装包](https://github.com/XINZHEKEJI/CloudDesktop/releases),获取产品安装包之后.
 
 按照 [产品部署和安装手册]( Zh-CN/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装.
 
@@ -112,6 +112,6 @@ Tel : 010 6170 5677   Fax : 010 6170 3884
 
 北京信者科技有限公司是一家致力于智能云终端与融合数据应用的产品服务公司
 <br>
-<a href="http://scisharpstack.org"><img src="https://github.com/SciSharp/SciSharp/blob/master/art/scisharp-stack.png" width="391" height="100" /></a>
+<a href="http://www.daasbank.com"><img src="Zh-CN/产品截图素材/logo.png" width="391" height="100" /></a>
 
 
