@@ -9,9 +9,6 @@ CloudShare智能储云
 
 文档库包含智能储云v2.5.0 +云桌面v3.1.1Web端的安装说明和产品介绍。
 
-CloudShare智能储云产品功能列表
-
-
 
 CloudShare+CloudDesktop是一个融合版本,产品安装包请从Ftp服务器获取,获取产品安装包之后.
 
