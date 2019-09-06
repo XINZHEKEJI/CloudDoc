@@ -1,3 +1,15 @@
+<img src='https://img.shields.io/badge/ubuntu%20-v16.04-blue'></img>
+<img src='https://img.shields.io/badge/CSharp-2.1%2B-brightgreen.svg'></img>
+<img src='https://img.shields.io/badge/asp.net%20core-v2.2.401-green'></img>
+<img src='https://img.shields.io/badge/CSharp-.NET%20Framework%204.8-yellowgreen'></img>
+<img src='https://img.shields.io/badge/build-passing-green'></img>
+<img src='https://img.shields.io/badge/docs-passing-green'></img>
+<img src='https://img.shields.io/badge/cloudshare-v2.6.0--alpha%2Cv2.5.0--passing-yellowgreen'></img>
+
+<br>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 
 **CloudDesktop云桌面**软件定义智能工作站是信者凭借自主开发的桌面虚拟化和分布式分发技术，面向高校计算机学院、机械学院、信息工程学院等大规模教学桌面应用群体开发的桌面智能管理产品，产品发挥本地高端运算、集中策略管理、安全资产管控、全局状态监控等优势功能，以”云-边-端”架构着重解决跨校区/多教室架构下桌面终端维护难度大、使用状态不透明、资产统计不完善等管理难题。产品帮助用户突破PC繁琐运维、安全无防护的使用瓶颈，揉合云端虚拟化产品集中管理、透明管理等优势，是一套使用流畅体验、灵活配置交付应用、便捷管理运维、数据汇聚共享、投资成本最佳的融合解决方案。
 
