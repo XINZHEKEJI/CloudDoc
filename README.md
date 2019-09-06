@@ -5,9 +5,7 @@
 <img src='https://img.shields.io/badge/build-passing-green'></img>
 <img src='https://img.shields.io/badge/docs-passing-green'></img>
 <img src='https://img.shields.io/badge/cloudshare-v2.6.0--alpha%2Cv2.5.0--passing-yellowgreen'></img>
-
 <br>
-
 -------------------------------------------------------------------------------------------------------------------------------
 
 
