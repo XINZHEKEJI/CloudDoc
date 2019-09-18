@@ -10,7 +10,6 @@
 <img src='https://img.shields.io/badge/build-passing-green'></img>
 <img src='https://img.shields.io/badge/docs-passing-green'></img>
 <img src='https://img.shields.io/badge/cloudshare-v2.6.0--alpha%2Cv2.5.0--passing-yellowgreen'></img>
-<br>
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### CloudMix文档库(包含CloudShare v2.5.0 + CloudDesktop v3.1.1 端)的安装说明和产品介绍。
@@ -18,25 +17,8 @@
 <a href="http://www.daasbank.com"><img src="image/CloudMix.png" width="600" height="400" /></a>
 </br>
 
-CloudMix是一个融合版本,[产品安装包下载地址](https://github.com/XINZHEKEJI/CloudDesktop/releases),获取最版本产品安装包之后.
-
-按照 [CloudMix安装手册]( ClOUDMix-ZCH/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装.
-
-CloudMix支持脚本一键自动安装,因此安装完毕之后,记得向我们提交注册码,方便我们及时给您提供License文件，或者联系您的软件供应商!
-
+**CloudMix**是一个融合版本,[产品安装包下载地址](https://github.com/XINZHEKEJI/CloudDesktop/releases),获取最版本产品安装包之后.按照 [CloudMix安装手册]( ClOUDMix-ZCH/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装.CloudMix支持脚本一键自动安装,因此安装完毕之后,记得向我们提交注册码,方便我们及时给您提供License文件，或者联系您的软件供应商!
 安装过程中有任何问题，请提交PR联系我们！
-
-成功完成安装，可以看到如下产品截图:
-
-### CloudDesktop产品截图：
-
-<a href="http://www.daasbank.com"><img src="image/CloudDesktop-登录.png" width="390" height="100" /></a>
-<a href="http://www.daasbank.com"><img src="image/CloudShare-主页.png" width="390" height="100" /></a>
-
-### CloudShare产品截图：
-
-<a href="http://www.daasbank.com"><img src="image/CloudShare-登录.png" width="390" height="100" /></a>
-<a href="http://www.daasbank.com"><img src="image/CloudShare-主页.png" width="390" height="100" /></a>
 
 ### 接下来:
 
