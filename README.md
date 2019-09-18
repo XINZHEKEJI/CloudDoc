@@ -64,7 +64,7 @@ Tel : 010 6170 5677   Fax : 010 6170 3884
 北京信者科技有限公司是一家致力于智能云终端与融合数据应用的产品服务公司
 
 <br>
-<a href="http://www.daasbank.com"><img src="image/logo.png" width="391" height="100" /></a>
+<a href="http://www.daasbank.com"><img src="image/logo.png" width="200" height="60" /></a>
 </br>
 
 
