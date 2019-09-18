@@ -19,7 +19,7 @@
 <a href="http://www.daasbank.com"><img src="image/CloudMix.png" width="600" height="400" /></a>
 </br>
 
-CloudMix是一个融合版本,[产品安装包下载地址]](https://github.com/XINZHEKEJI/CloudDesktop/releases)(Last Release v3.1.1.19005 ),获取最版本产品安装包之后.
+CloudMix是一个融合版本,[产品安装包下载地址](https://github.com/XINZHEKEJI/CloudDesktop/releases),获取最版本产品安装包之后.
 
 按照 [CloudMix安装手册]( ClOUDMix-ZCH/智能储云与桌面B端融合版安装手册-power%20by%20信者科技.docx) 进行部署和安装.
 
@@ -58,7 +58,8 @@ Tel : 010 6170 5677   Fax : 010 6170 3884
 网址：www.daasbank.com
 
 北京信者科技有限公司是一家致力于智能云终端与融合数据应用的产品服务公司
+
 <br>
-<a href="http://www.daasbank.com"><img src="image/logo.png" width="100" height="80" /></a>
+<a href="http://www.daasbank.com"><img src="image/logo.png" width="200" height="100" /></a>
 </br>
 ----------------------------------------------------------------------------------------------------------------
