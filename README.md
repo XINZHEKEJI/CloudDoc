@@ -26,15 +26,14 @@ CloudMix是一个融合版本,[产品安装包](https://github.com/XINZHEKEJI/Cl
 成功完成安装，可以看到如下产品截图:
 
 ### CloudDesktop产品截图：
-![logo](image/CloudDesktop-登录.png)
 
-![Main](image/CloudShare-主页.png)
+<a href="http://www.daasbank.com"><img src="image/CloudDesktop-登录.png" width="800" height="600" /></a>
+<a href="http://www.daasbank.com"><img src="image/CloudShare-主页.png" width="800" height="600" /></a>
 
 ### CloudShare产品截图：
 
-![logo](image/CloudShare-登录.png)
-
-![Main](image/CloudShare-主页.png)
+<a href="http://www.daasbank.com"><img src="image/CloudShare-登录.png" width="800" height="600" /></a>
+<a href="http://www.daasbank.com"><img src="image/CloudShare-主页.png" width="800" height="600" /></a>
 
 
 我们的产品支持一键脚本自动化安装，通过执行产品安装包里面的一键安装脚本会自动安装和执行上述组件,执行安装完毕之后,记得向我们提交注册码,
@@ -65,7 +64,7 @@ Tel : 010 6170 5677   Fax : 010 6170 3884
 北京信者科技有限公司是一家致力于智能云终端与融合数据应用的产品服务公司
 
 <br>
-<a href="http://www.daasbank.com"><img src="Zh-CN/产品截图素材/logo.png" width="391" height="100" /></a>
+<a href="http://www.daasbank.com"><img src="image/logo.png" width="391" height="100" /></a>
 </br>
 
 
